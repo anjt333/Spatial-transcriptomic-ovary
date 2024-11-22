@@ -1,4 +1,4 @@
-Single_cell_cluster.Rlibrary(Seurat)
+library(Seurat)
 library(ggplot2)
 library(RColorBrewer)
 library(reshape2)
